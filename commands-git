@@ -1,7 +1,7 @@
 git clone 'url'
 git add 'les fichier que vous voulez ajouter'
 git commit -m 'message de commit"
-git pushe origin main
+git push origin main
 git pull origin main
 #pour crer une branch
 git branch 'nom de la branch'
